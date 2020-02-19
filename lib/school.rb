@@ -6,6 +6,7 @@ class School
  
  initialized (name)
    @name = name
+   @roster = {}
  end
  
 end
