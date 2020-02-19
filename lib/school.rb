@@ -14,6 +14,6 @@ class School
    roster[grade] << student_name
  end
  
- def add_student
+ def grade
  
 end
